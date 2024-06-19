@@ -1,4 +1,4 @@
-import styles from './style';
+import styles from './styles';
 import Section from './components/Section';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';

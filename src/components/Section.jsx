@@ -1,4 +1,4 @@
-import styles from '../style';
+import styles from '../styles';
 /* eslint-disable react/prop-types */
 
 const Section = ({ content }) => {
