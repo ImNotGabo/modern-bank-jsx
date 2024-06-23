@@ -7,8 +7,8 @@ const Testimonials = () => (
     <div className='absolute z-[0] w-[50%] h-[60%] -right-[50%] rounded-full blue__gradient' />
     <div className={`w-full flex flex-col justify-between items-center md:flex-row sm:mb-16 mb-6 relative z-[1]`}>
       <h1 className={styles.heading2}>
-        Whta people are <br className='sm:block hidden' />
-        sating about us
+        What people are <br className='sm:block hidden' />
+        saying about us
       </h1>
 
       <div className='w-full md:mt-0 mt-6'>
